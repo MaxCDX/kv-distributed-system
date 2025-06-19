@@ -1,0 +1,26 @@
+2024-11-27 15:57:15,253 INFO [main]	register protocol:1 success
+2024-11-27 15:57:15,361 INFO [main]	register protocol:29 success
+2024-11-27 15:57:15,367 INFO [main]	register protocol:4 success
+2024-11-27 15:57:15,374 INFO [main]	register protocol:3 success
+2024-11-27 15:57:15,377 INFO [main]	register protocol:31 success
+2024-11-27 15:57:15,378 INFO [main]	register protocol:28 success
+2024-11-27 15:57:15,381 INFO [main]	register protocol:32 success
+2024-11-27 15:57:15,384 INFO [main]	register protocol:33 success
+2024-11-27 15:57:15,384 INFO [main]	register protocol:30 success
+2024-11-27 15:57:15,387 INFO [main]	register load balance factory:RandomLoadBalanceFactory success
+2024-11-27 15:57:15,388 INFO [main]	register load balance factory:RoundRobinLoadBalanceFactory success
+2024-11-27 15:57:15,388 INFO [main]	register load balance factory:WeightLoadBalanceFactory success
+2024-11-27 15:57:15,389 INFO [main]	register load balance factory:FairLoadBalanceFactory success
+2024-11-27 15:57:15,422 INFO [main]	create thread:timeout-timer-thread-1
+2024-11-27 15:57:15,426 INFO [main]	create thread:fairStrategy-timer-thread-1
+2024-11-27 15:57:15,432 INFO [main]	create thread:client-work-thread-1
+2024-11-27 15:57:15,433 INFO [main]	create thread:client-work-thread-2
+2024-11-27 15:57:15,433 INFO [main]	create thread:client-work-thread-3
+2024-11-27 15:57:15,433 INFO [main]	create thread:client-work-thread-4
+2024-11-27 15:57:17,098 INFO [main]	create thread:client-io-thread-1
+2024-11-27 15:57:17,119 INFO [main]	create thread:client-io-thread-2
+2024-11-27 15:57:17,137 INFO [main]	create thread:client-io-thread-3
+2024-11-27 15:57:17,139 INFO [main]	create thread:client-io-thread-4
+2024-11-27 15:57:17,828 INFO [client-io-thread-1]	create thread:invalid-channel-callback-thread-1
+2024-11-27 15:57:21,073 INFO [Thread-1]	Brpc do clean work...
+2024-11-27 15:57:21,074 INFO [Thread-1]	invoke shutdownGlobalThreadPools
